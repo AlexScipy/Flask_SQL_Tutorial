@@ -1,0 +1,9 @@
+POST request route --> http://127.0.0.1:5000/insert_data
+
+{
+    "table_name": "tabella_1",
+    "data": {
+        "name": "John Doe",
+        "value": "99"
+    }
+}
